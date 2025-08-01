@@ -20,6 +20,16 @@
 
 ---
 
+## 🧠 What I'm Exploring
+
+I’m currently diving deeper into the world of:
+
+- 📊 Data Visualization & Automation  
+- 🧩 Machine Learning for Real-World Use Cases  
+- 🌐 Web3, Decentralized Applications, and the Future of the Internet
+
+---
+
 ## 🧰 Tech Stack
 
 <p align="center">
