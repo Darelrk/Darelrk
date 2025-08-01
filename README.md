@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Darel R K</h1>
+<h1 align="center">Hi there 👋, I'm Darelrk</h1>
 <h3 align="center">Data Enthusiast • Tech Explorer • Lifelong Learner from Indonesia 🇮🇩</h3>
 
 <p align="center">
@@ -27,7 +27,7 @@
   <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/></a>
   <a href="https://jupyter.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40" alt="Jupyter"/></a>
   <a href="https://www.selenium.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="40" height="40" alt="Selenium"/></a>
-  <a href="https://lookerstudio.google.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Looker_logo.svg" width="40" height="40" alt="Looker Studio"/></a>
+  <a href="https://lookerstudio.google.com/" target="_blank"><img src="https://www.svgrepo.com/show/354012/looker-icon.svg" width="40" height="40" alt="Looker Studio"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/></a>
 </p>
