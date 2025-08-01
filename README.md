@@ -53,13 +53,6 @@ I’m currently diving deeper into the world of:
 
 ---
 
-## 📝 My Writings on Medium
-
-📰 I love to write about data, tech, and reflections on digital transformation.  
-Check out my latest stories on **[Medium @darelrafif.kz](https://medium.com/@darelrafif.kz)**.
-
----
-
 ## 🌟 Featured Projects
 
 🔹 [**Dashboard Analisis Universitas LPDP**](https://github.com/Darelrk/Dashboard-Analisis-Universitas-LPDP)  
