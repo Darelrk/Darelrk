@@ -54,14 +54,14 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Darelrk&show_icons=true&theme=blue&hide_border=true&bg_color=0d1117&v=1" height="180" alt="stats graph" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darelrk&layout=compact&theme=blue&hide_border=true&bg_color=0d1117&v=1" height="180" alt="languages graph" />
+<img src="https://github-readme-stats.vercel.app/api?username=Darelrk&show_icons=true&title_color=0077B5&icon_color=0077B5&text_color=FFFFFF&bg_color=0d1117&hide_border=true" height="180" alt="stats graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darelrk&layout=compact&title_color=0077B5&icon_color=0077B5&text_color=FFFFFF&bg_color=0d1117&hide_border=true" height="180" alt="languages graph" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Darelrk&theme=blue&hide_border=true&background=0d1117&v=1" alt="streak graph" />
+<img src="https://streak-stats.demolab.com/?user=Darelrk&title_color=0077B5&ring_color=0077B5&stroke_color=0077B5&background=0d1117" alt="streak graph" />
 
 </div>
 
