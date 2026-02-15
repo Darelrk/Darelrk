@@ -42,7 +42,7 @@
 ## 🛠️ Languages-Frameworks-Tools 🛠️
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,jupyter,selenium,mysql,git,lookerstudio,github,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,jupyter,selenium,mysql,git,github" />
 </p>
 
 ---
