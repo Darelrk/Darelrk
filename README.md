@@ -54,20 +54,20 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Darelrk&show_icons=true&theme=blue&hide_border=true&bg_color=0d1117" height="180" alt="stats graph" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darelrk&layout=compact&theme=blue&hide_border=true&bg_color=0d1117" height="180" alt="languages graph" />
+<img src="https://github-readme-stats.vercel.app/api?username=Darelrk&show_icons=true&theme=blue&hide_border=true&bg_color=0d1117&v=1" height="180" alt="stats graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darelrk&layout=compact&theme=blue&hide_border=true&bg_color=0d1117&v=1" height="180" alt="languages graph" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Darelrk&theme=blue&hide_border=true&background=0d1117" alt="streak graph" />
+<img src="https://streak-stats.demolab.com/?user=Darelrk&theme=blue&hide_border=true&background=0d1117&v=1" alt="streak graph" />
 
 </div>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Darelrk&style=flat-square&color=0077B5&label=Profile+Views)
+[![Profile Views](https://hits.seeyoufarm.com/api/hits?label=Profile+Views&color=0077B5&style=flat-square)](https://github.com/Darelrk)
 
 </div>
 
